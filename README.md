@@ -1,3 +1,12 @@
+A WIP split keyboard with a USB hub and two trackballs in the center:
+
+1. an optical trackball for mouse control
+1. a tiny blackberry trackball for scroll
+
+![layout](split_tb.png)
+
+Based on:
+
 # RP2040+PMW3360
 
 This repository contains design files and code for a PCB carrying Raspberry Pi's RP2040 chip and the PixArt PMW3360 optical mouse sensor. They can be used for rapid prototyping of USB mice and trackballs.
